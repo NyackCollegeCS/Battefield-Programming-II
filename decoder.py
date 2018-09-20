@@ -21,3 +21,4 @@ while v_Pos < len(v_Word):
 #    print(v_Pos)
 #  reveal the summation of all numbers in string
 print('The hidden code is ' + str(v_Num))
+#   End of Program
