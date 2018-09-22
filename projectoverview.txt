@@ -1,0 +1,3 @@
+# My project is about selecting people after interviews. Candidates will be required
+to a quiz and will be graded in 5 point range. The quiz will contain what the boss wants
+from the Candidates. The highest grade will be appointed.  
